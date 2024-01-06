@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://1ImZTX.github.io</id>
+    <title>ZTX</title>
+    <updated>2024-01-06T14:20:45.704Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://1ImZTX.github.io"/>
+    <link rel="self" href="https://1ImZTX.github.io/atom.xml"/>
+    <subtitle>你好\(@^0^@)/</subtitle>
+    <logo>https://1ImZTX.github.io/images/avatar.png</logo>
+    <icon>https://1ImZTX.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, ZTX</rights>
+    <entry>
+        <title type="html"><![CDATA[作业相关]]></title>
+        <id>https://1ImZTX.github.io/post/zuoyezuoyewoyaozuoye/</id>
+        <link href="https://1ImZTX.github.io/post/zuoyezuoyewoyaozuoye/">
+        </link>
+        <updated>2023-10-15T10:08:00.000Z</updated>
+        <content type="html"><![CDATA[<p>vocal</p>
+]]></content>
+    </entry>
+</feed>
